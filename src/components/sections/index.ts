@@ -1,0 +1,13 @@
+export { AgeGate } from "./AgeGate";
+export { Hero } from "./Hero";
+export { Navigation } from "./Navigation";
+export { Footer } from "./Footer";
+export { Timeline } from "./Timeline";
+export { About } from "./About";
+export { Features } from "./Features";
+export { Environments } from "./Environments";
+export { Characters } from "./Characters";
+export { Live2DShowcase } from "./Live2DShowcase";
+export { MediaGallery } from "./MediaGallery";
+export { Community } from "./Community";
+export { Newsletter, FloatingNewsletter } from "./Newsletter";

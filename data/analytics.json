@@ -1,0 +1,132 @@
+{
+  "pageViews": [
+    {
+      "timestamp": "2025-12-04T17:31:10.268Z",
+      "path": "/",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "sessionId": "1764867923367-idzg2eekw"
+    },
+    {
+      "timestamp": "2025-12-04T17:32:51.462Z",
+      "path": "/",
+      "referrer": "",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    }
+  ],
+  "sectionViews": [
+    {
+      "section": "live2d",
+      "timestamp": "2025-12-04T17:31:20.069Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "characters",
+      "timestamp": "2025-12-04T17:31:29.613Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "timeline",
+      "timestamp": "2025-12-04T17:31:33.415Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "hero",
+      "timestamp": "2025-12-04T17:32:51.490Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "live2d",
+      "timestamp": "2025-12-04T17:32:55.489Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "characters",
+      "timestamp": "2025-12-04T17:32:55.588Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "timeline",
+      "timestamp": "2025-12-04T17:32:55.722Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "about",
+      "timestamp": "2025-12-04T17:32:57.061Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "features",
+      "timestamp": "2025-12-04T17:32:58.231Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "section": "hero",
+      "timestamp": "2025-12-04T17:34:14.220Z",
+      "sessionId": "1764867923367-idzg2eekw"
+    }
+  ],
+  "clickEvents": [
+    {
+      "element": "I am 18+ Enter",
+      "timestamp": "2025-12-04T17:31:14.007Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Dynamic ExpressionsOver 20 unique facial expressio",
+      "timestamp": "2025-12-04T17:31:23.928Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Interactive ScenesFull Live2D animated scenes that",
+      "timestamp": "2025-12-04T17:31:24.856Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Physics SimulationHair, clothing, and body physics",
+      "timestamp": "2025-12-04T17:31:25.741Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Interactive ScenesFull Live2D animated scenes that",
+      "timestamp": "2025-12-04T17:31:26.640Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Physics SimulationHair, clothing, and body physics",
+      "timestamp": "2025-12-04T17:31:27.571Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "View ProfileMaxineChildhood FriendFire and fury wr",
+      "timestamp": "2025-12-04T17:31:36.932Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Timeline",
+      "timestamp": "2025-12-04T17:32:55.279Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Live2D",
+      "timestamp": "2025-12-04T17:33:01.281Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Alter Lily",
+      "timestamp": "2025-12-04T17:33:01.908Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    },
+    {
+      "element": "Watch Trailer",
+      "timestamp": "2025-12-04T17:33:30.103Z",
+      "sessionId": "1764869469872-v2f8y5ifq"
+    }
+  ],
+  "uniqueVisitors": [
+    "1764867923367-idzg2eekw",
+    "1764869469872-v2f8y5ifq"
+  ],
+  "totalVisitors": 2
+}
